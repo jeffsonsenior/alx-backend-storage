@@ -1,0 +1,2 @@
+// a mongodb scriot that create or uses a database
+use my_db
